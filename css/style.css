@@ -248,8 +248,11 @@ body{
     text-align: center;
     line-height: 0px;
     border-right: 1px solid;
-    margin-left: 20px ;
+/*     margin-left: 20px ; */
     margin-bottom: 50px;
+}
+.smCon6Sec4 , .smCon7Sec4 , .smCon8Sec4 , .smCon9Sec4 , .smCon10Sec4{
+    margin:auto;
 }
 .bor1{
     margin-left: 40px ;
