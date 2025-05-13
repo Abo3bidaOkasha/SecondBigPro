@@ -1,5 +1,6 @@
 body{
     perspective: 700px;
+    min-width:1700px;
 }
 .container{
     width: 80%;
